@@ -1,5 +1,5 @@
-<ul>
-        <li><a href="home.php">Home</a></li>
+a<ul>
+        <li>Home</li>
         <li><a class="hsubs" href="fotos.php">Fotos</a></li>
         <li><a class="hsubs" href="contato.php">Contato</a></li>
     
