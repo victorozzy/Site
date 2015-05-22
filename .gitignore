@@ -1,6 +1,6 @@
 
 <div id="men">
-<ul id="nav">
+<ul>
         <li><a href="home.php">Home</a></li>
         <li><a class="hsubs" href="fotos.php">Fotos</a></li>
         <li><a class="hsubs" href="contato.php">Contato</a></li>
