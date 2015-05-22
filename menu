@@ -1,4 +1,4 @@
-a<ul>
+<ul>
         <li>Home</li>
         <li><a class="hsubs" href="fotos.php">Fotos</a></li>
         <li><a class="hsubs" href="contato.php">Contato</a></li>
